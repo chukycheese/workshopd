@@ -74,6 +74,7 @@
 
        1 Changes on Google Trends about Sewol Ferry using Plotly.ipynb
          - For a graph on Google Trends
+         - https://plot.ly/~KYAuggieChu/12
        2  Tweet Crawler.ipynb
          - To gether tweets from twitter
        3 Word Cloud 
