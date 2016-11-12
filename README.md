@@ -1,6 +1,26 @@
 # Data x Design, Workshop D 3기
 ==========
 
+### 1. 설치
+    - plot.ly: https://plot.ly/python/getting-started/
+    - konlpy: http://konlpy.org/en/v0.4.4/
+    - selenium: pip install selenium==2.53.6
+
+### 2. 단계에 대한 설명
+        1 원자료 수집
+          - www.google.com/trends 에서 2014-04-16 부터 2016-10-31 까지 '세월호' 로 검색한 수를 받아오자.
+          - 각 점의 값을 직접 입력하긴 했는데 분명히 더 나은 방법이 있을 것임.
+        
+        2 그래프에 나타내기
+          - 사용한 라이브러리
+                - pandas
+                - matplotlib
+                - plotly
+          - pandas로 데이터를 불러오자.
+          - x축은 날짜(월, 년)로, y축은 검색 건수, 그리고 점 위에 마우스를 올리면 보다 정확한 날짜와 그 날의 검색 건수가 나타나게 만들자.
+        
+        3 
+
 ### 1. Installation
     - plot.ly: https://plot.ly/python/getting-started/
     - konlpy: http://konlpy.org/en/v0.4.4/
